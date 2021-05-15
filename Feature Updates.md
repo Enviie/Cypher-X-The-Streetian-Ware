@@ -1,4 +1,4 @@
-Version 1.9
+Version 2
 -------------
 Silent Aim Real Pogger!
 Added Aim Velocity base on your ping 
