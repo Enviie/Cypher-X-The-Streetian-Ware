@@ -18,3 +18,4 @@ Added Random Body Shots
 Added Blacklist FOV Aimlock for your friends, players, and your group members ex: when you use aim-mode fov player when you put the circle on the player it won't shoot them
 Added Aimbot put Bullet Prediction, Bullet Drop, and Smoothness
 Added Streamer Mode if you are streaming sharing your screen or making a youtube video it will make all the GUIS, notify, and nametags gone
+Added get target from a player display name and fixed the Bullet Prediction
